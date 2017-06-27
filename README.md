@@ -1,0 +1,1 @@
+# ck-editor-in-angularjs
