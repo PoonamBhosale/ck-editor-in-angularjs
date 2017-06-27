@@ -1,0 +1,14 @@
+Steps to install ck-editor plugin
+
+1.bower.json---->
+
+"angular-ckeditor": "1.0.3",
+
+"overrides": {       
+        "angular-ckeditor": {
+            "main": [
+                "angular-ckeditor.js"
+            ]
+        }
+    },
+    
